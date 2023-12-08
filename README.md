@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**LJr143/LJr143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a project Library Management System for my Software Engineering Subject ...
@@ -10,4 +7,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about how can we be a good team...
 - 📫 How to reach me: via facebook @ Lorjohn M. Rana ...
 - 😄 Pronouns: He/Him...
--->
+
