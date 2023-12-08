@@ -1,6 +1,4 @@
 ### Hi there 👋
-![image](https://github.com/LJr143/LJr143/assets/89633836/5d600cab-8df2-4dbc-bf03-fc1cc05b41ee)
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a project Library Management System for my Software Engineering Subject ...
