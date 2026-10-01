@@ -48,22 +48,6 @@ Doing both gives me a useful perspective:
 
 ---
 
-## 📂 What's in This Repo
-
-```
-ITKILLS/
-├── web-dev/
-│   ├── laravel/        # Laravel projects and experiments
-│   ├── dotnet-core/    # .NET Core APIs and apps
-│   └── angular/        # Angular frontends
-├── cybersecurity/
-│   ├── red-team/       # Pentesting notes, methodologies, lab write-ups
-│   └── blue-team/      # Defense, monitoring and hardening notes
-└── README.md
-```
-
----
-
 ## 🎯 Currently Focused On
 
 - [ ] Building a full-stack project with Angular + .NET Core
